@@ -1,8 +1,7 @@
 .venv/
-__pycache__/
-*.pyc
-*.pyo
-.env
-*.log
 .vscode/
 .claude/
+__pycache__/
+*.pyc
+.env
+*.log
